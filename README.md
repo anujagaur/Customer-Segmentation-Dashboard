@@ -33,5 +33,3 @@ The dashboard is built using an Online Retail transaction dataset containing cus
 - Supports customer retention strategies.
 - Helps businesses improve marketing effectiveness.
 
-## Author
-**Anuja Gaur**
